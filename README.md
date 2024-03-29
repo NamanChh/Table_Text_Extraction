@@ -3,8 +3,8 @@
 A project done for the course Signals and Image Processing under <b>Dr. Ami Munshi</b>
 <h3>Team members</h3>
 <ul>
-<li><b>MAHIKA JAIN I038</b> Github: <a href="https://github.com/akash-r34">akash-r34</a></li>
-<li><b>MANN AGARWAL I039</b> Github: <a href="https://github.com/ArjunBharani">ArjunBharani</a></li>
+<li><b>MAHIKA JAIN I038</b></li>
+<li><b>MANN AGARWAL I039</b></li>
 <li><b>NAMAN CHHAPARIA I040</b> Github: <a href="https://github.com/NamanChh">shivams-23</a></li>
 
 </ul>
