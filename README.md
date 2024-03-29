@@ -9,6 +9,5 @@ A project done for the course Signals and Image Processing under <b><a href="htt
 
 </ul>
 <h2>Abstract</h2>
-Earthquakes are natural disasters that can cause significant damage and loss of life. Accurate prediction of earthquakes is essential for developing early warning systems, disaster planning, risk assessment, and scientific research.
-This project aims to predict the magnitude and probability of Earthquake occurring in a particular region (California, United States) from the historic data of that region using various Machine learning models.
+The conventional method of manually inputting timetable information can be time-consuming and error-prone. To address this issue, we propose a novel solution for our in-house college app ‘Mpstme OnTrack’ that leverages computer vision and optical character recognition (OCR) technologies. Our model aims to automate the process of timetable extraction from images, making the scheduling and organization of academic activities more streamlined and accurate.
 
