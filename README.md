@@ -3,7 +3,7 @@
 A project done for the course Signals and Image Processing under <b><a href="https://github.com/AmiMunshi">Dr. Ami Munshi</b> 
 <h3>Team members</h3>
 <ul>
-<li><b>MAHIKA JAIN I038</b></li>
+<li><b>MAHIKA SHAH I038</b></li>
 <li><b>MANN AGARWAL I039</b> Github: <a href="https://github.com/mann2705">mann2705</a></li>
 <li><b>NAMAN CHHAPARIA I040</b> Github: <a href="https://github.com/NamanChh">NamanChh</a></li>
 
