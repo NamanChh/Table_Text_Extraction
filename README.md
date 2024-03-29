@@ -5,7 +5,7 @@ A project done for the course Signals and Image Processing under <b>Dr. Ami Muns
 <ul>
 <li><b>MAHIKA JAIN I038</b></li>
 <li><b>MANN AGARWAL I039</b></li>
-<li><b>NAMAN CHHAPARIA I040</b> Github: <a href="https://github.com/NamanChh">shivams-23</a></li>
+<li><b>NAMAN CHHAPARIA I040</b> Github: <a href="https://github.com/NamanChh"></a></li>
 
 </ul>
 <h2>Abstract</h2>
