@@ -1,6 +1,6 @@
 # Table Text Extraction
 
-A project done for the course Signals and Image Processing under <b>Dr. Ami Munshi</b> Github: <a href="https://github.com/AmiMunshi">AmiMunshi
+A project done for the course Signals and Image Processing under <b><a href="https://github.com/AmiMunshi">Dr. Ami Munshi</b> 
 <h3>Team members</h3>
 <ul>
 <li><b>MAHIKA JAIN I038</b></li>
